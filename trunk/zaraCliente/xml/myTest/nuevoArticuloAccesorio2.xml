@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<nuevoArticulo>
+	<tipo>Accesorio</tipo>
+	<referencia>6001</referencia>
+	<descripcion>Shampoo anticaspa</descripcion>
+	<nombre>Shampoo</nombre>
+	<composicion>Composicion</composicion>
+	<medidas>30X20cm</medidas>
+	<color>Azul</color>
+	<seccion>Blabla</seccion>
+	<categoria>banio</categoria>
+	<linea>hogar</linea>
+	<precio>15.99</precio>
+	<centrosDistribucion>
+        	<centroDistribucion>
+        		<id>1</id>
+        	</centroDistribucion>
+        	<centroDistribucion>
+        		<id>3</id>
+	        </centroDistribucion>
+	</centrosDistribucion>
+</nuevoArticulo>

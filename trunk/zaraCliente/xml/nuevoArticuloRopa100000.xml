@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>ropa</tipo>
+    <referencia>1000000</referencia>
+    <descripcion>???????? ???????</descripcion>
+    <talle>L</talle>
+    <color>Rojo</color>
+    <origen>Rusia</origen>
+    <seccion>Hombre</seccion>
+    <linea>Vestir</linea>
+    <precio>1500000.5</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>1</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>2</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>3</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>4</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>5</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>6</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>

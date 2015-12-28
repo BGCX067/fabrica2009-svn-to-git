@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>accesorio</tipo>
+    <referencia>45023105</referencia>
+    <descripcion>Jabonera blanca de porcelana</descripcion>
+    <nombre>Jabonera Aoki</nombre>
+    <composicion>100% porcelana</composicion>
+    <medidas>12.30 x 9.10 x 3.10 cm</medidas>
+    <color>Blanco</color>
+    <seccion>Accesorios de Baño</seccion>
+    <categoria>Baño</categoria>
+    <linea>Unica</linea>
+    <precio>4.9</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>2</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>3</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>4</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>5</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>6</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>

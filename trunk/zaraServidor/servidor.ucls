@@ -1,0 +1,572 @@
+<class-diagram version="0.9.82" automaticImage="PNG" icons="true" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.SolicitudFabricacion" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/SolicitudFabricacion.java" binary="false">    
+    <position x="736" y="460" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.ArticuloMateriaPrima" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/ArticuloMateriaPrima.java" binary="false">    
+    <position x="-5" y="-5" width="194" height="225"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.Articulo" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/Articulo.java" binary="false">    
+    <position x="232" y="288" width="311" height="679"/>    
+    <display autosize="false" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.ArtHogar" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/ArtHogar.java" binary="false">    
+    <position x="235" y="1128" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.MateriaPrima" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/MateriaPrima.java" binary="false">    
+    <position x="-69" y="340" width="213" height="289"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.ItemSolicitud" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/ItemSolicitud.java" binary="false">    
+    <position x="710" y="111" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.CentroDistribucion" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/CentroDistribucion.java" binary="false">    
+    <position x="746" y="856" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.ArtRopa" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/ArtRopa.java" binary="false">    
+    <position x="487" y="1090" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.ItemFabricacion" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/ItemFabricacion.java" binary="false">    
+    <position x="336" y="-224" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.entities.FabricacionComenzada" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/entities/FabricacionComenzada.java" binary="false">    
+    <position x="229" y="-5" width="257" height="193"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.session.ModeloNuevoArticuloBean" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/session/ModeloNuevoArticuloBean.java" binary="false">    
+    <position x="1782" y="637" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.session.ModeloEnvioProveedoresBean" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/session/ModeloEnvioProveedoresBean.java" binary="false">    
+    <position x="2194" y="715" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.session.ModeloComenzarFabricacionBean" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/session/ModeloComenzarFabricacionBean.java" binary="false">    
+    <position x="2732" y="1075" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.session.SessionFacade" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/session/SessionFacade.java" binary="false">    
+    <position x="1972" y="1275" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.session.ModeloReposicionArticulosBean" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/session/ModeloReposicionArticulosBean.java" binary="false">    
+    <position x="2611" y="555" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.bean.session.ModeloSolicitudFabricacionBean" project="zara" 
+    file="/zara/src/main/java/fabrica/bean/session/ModeloSolicitudFabricacionBean.java" binary="false">    
+    <position x="1409" y="781" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.cu.EnvProv" project="zara" 
+    file="/zara/src/main/java/fabrica/cu/EnvProv.java" binary="false">    
+    <position x="1564" y="456" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.cu.RepAf" project="zara" 
+    file="/zara/src/main/java/fabrica/cu/RepAf.java" binary="false">    
+    <position x="2782" y="208" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <interface corner="BOTTOM_RIGHT" language="java" name="fabrica.facades.ModeloSolicitudFabricacion" project="zara" 
+    file="/zara/src/main/java/fabrica/facades/ModeloSolicitudFabricacion.java" binary="false">    
+    <position x="1505" y="1044" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface corner="BOTTOM_RIGHT" language="java" name="fabrica.facades.ModeloNuevoArticulo" project="zara" 
+    file="/zara/src/main/java/fabrica/facades/ModeloNuevoArticulo.java" binary="false">    
+    <position x="1806" y="814" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface corner="BOTTOM_RIGHT" language="java" name="fabrica.facades.ModeloEnvioProveedores" project="zara" 
+    file="/zara/src/main/java/fabrica/facades/ModeloEnvioProveedores.java" binary="false">    
+    <position x="2129" y="920" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface corner="BOTTOM_RIGHT" language="java" name="fabrica.facades.ModeloReposicionArticulos" project="zara" 
+    file="/zara/src/main/java/fabrica/facades/ModeloReposicionArticulos.java" binary="false">    
+    <position x="2586" y="838" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface corner="BOTTOM_RIGHT" language="java" name="fabrica.facades.Facade" project="zara" 
+    file="/zara/src/main/java/fabrica/facades/Facade.java" binary="false">    
+    <position x="1347" y="1428" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <interface corner="BOTTOM_RIGHT" language="java" name="fabrica.facades.ModeloComenzarFabricacion" project="zara" 
+    file="/zara/src/main/java/fabrica/facades/ModeloComenzarFabricacion.java" binary="false">    
+    <position x="2717" y="1326" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </interface>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.vo.ArticuloEnListadoVO" project="zara" 
+    file="/zara/src/main/java/fabrica/vo/ArticuloEnListadoVO.java" binary="false">    
+    <position x="2752" y="-168" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.vo.SolFabrVO" project="zara" 
+    file="/zara/src/main/java/fabrica/vo/SolFabrVO.java" binary="false">    
+    <position x="1856" y="-304" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.vo.MateriaPrimaVO" project="zara" 
+    file="/zara/src/main/java/fabrica/vo/MateriaPrimaVO.java" binary="false">    
+    <position x="1997" y="305" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.vo.ArticulosReposicionVO" project="zara" 
+    file="/zara/src/main/java/fabrica/vo/ArticulosReposicionVO.java" binary="false">    
+    <position x="1438" y="-144" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.vo.SolFabrItemVO" project="zara" 
+    file="/zara/src/main/java/fabrica/vo/SolFabrItemVO.java" binary="false">    
+    <position x="1605" y="257" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.vo.ArticuloVO" project="zara" 
+    file="/zara/src/main/java/fabrica/vo/ArticuloVO.java" binary="false">    
+    <position x="2194" y="-128" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.vo.CentroDistribucionVO" project="zara" 
+    file="/zara/src/main/java/fabrica/vo/CentroDistribucionVO.java" binary="false">    
+    <position x="1795" y="233" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.vo.ArtRopaVO" project="zara" 
+    file="/zara/src/main/java/fabrica/vo/ArtRopaVO.java" binary="false">    
+    <position x="2192" y="265" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="fabrica.vo.ArtHogarVO" project="zara" 
+    file="/zara/src/main/java/fabrica/vo/ArtHogarVO.java" binary="false">    
+    <position x="2378" y="313" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.Articulo" 
+      file="/zara/src/main/java/fabrica/bean/entities/Articulo.java" binary="false" navigable="false">      
+      <attribute name="centrosDistribucion"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.CentroDistribucion" 
+      file="/zara/src/main/java/fabrica/bean/entities/CentroDistribucion.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.session.SessionFacade" 
+      file="/zara/src/main/java/fabrica/bean/session/SessionFacade.java" binary="false" navigable="false">      
+      <attribute name="modeloNuevoArticulo"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.facades.ModeloNuevoArticulo" 
+      file="/zara/src/main/java/fabrica/facades/ModeloNuevoArticulo.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.session.SessionFacade" 
+      file="/zara/src/main/java/fabrica/bean/session/SessionFacade.java" binary="false" navigable="false">      
+      <attribute name="modeloSolicitudFabricacion"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.facades.ModeloSolicitudFabricacion" 
+      file="/zara/src/main/java/fabrica/facades/ModeloSolicitudFabricacion.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.ItemSolicitud" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemSolicitud.java" binary="false" navigable="false">      
+      <attribute name="solicitud"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.SolicitudFabricacion" 
+      file="/zara/src/main/java/fabrica/bean/entities/SolicitudFabricacion.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization>    
+    <source project="zara" name="fabrica.bean.entities.ArtRopa" 
+      file="/zara/src/main/java/fabrica/bean/entities/ArtRopa.java" binary="false"/>    
+    <target project="zara" name="fabrica.bean.entities.Articulo" 
+      file="/zara/src/main/java/fabrica/bean/entities/Articulo.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="zara" name="fabrica.bean.session.SessionFacade" 
+      file="/zara/src/main/java/fabrica/bean/session/SessionFacade.java" binary="false" navigable="false">      
+      <attribute name="modeloComenzaFabricacion"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.facades.ModeloComenzarFabricacion" 
+      file="/zara/src/main/java/fabrica/facades/ModeloComenzarFabricacion.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.ItemFabricacion" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemFabricacion.java" binary="false" navigable="false">      
+      <attribute name="fabricacion"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.FabricacionComenzada" 
+      file="/zara/src/main/java/fabrica/bean/entities/FabricacionComenzada.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.SolicitudFabricacion" 
+      file="/zara/src/main/java/fabrica/bean/entities/SolicitudFabricacion.java" binary="false" navigable="false">      
+      <attribute name="itemsSolFabr"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.ItemSolicitud" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemSolicitud.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization>    
+    <source project="zara" name="fabrica.vo.ArtRopaVO" file="/zara/src/main/java/fabrica/vo/ArtRopaVO.java" 
+      binary="false"/>    
+    <target project="zara" name="fabrica.vo.ArticuloVO" file="/zara/src/main/java/fabrica/vo/ArticuloVO.java" 
+      binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="zara" name="fabrica.bean.entities.ArtHogar" 
+      file="/zara/src/main/java/fabrica/bean/entities/ArtHogar.java" binary="false"/>    
+    <target project="zara" name="fabrica.bean.entities.Articulo" 
+      file="/zara/src/main/java/fabrica/bean/entities/Articulo.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.ArticuloMateriaPrima" 
+      file="/zara/src/main/java/fabrica/bean/entities/ArticuloMateriaPrima.java" binary="false" navigable="false">      
+      <attribute name="articulo"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.Articulo" 
+      file="/zara/src/main/java/fabrica/bean/entities/Articulo.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.vo.ArticuloVO" file="/zara/src/main/java/fabrica/vo/ArticuloVO.java" 
+      binary="false" navigable="false">      
+      <attribute name="centrosDistribucion"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.vo.CentroDistribucionVO" 
+      file="/zara/src/main/java/fabrica/vo/CentroDistribucionVO.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.vo.ArticuloVO" file="/zara/src/main/java/fabrica/vo/ArticuloVO.java" 
+      binary="false" navigable="false">      
+      <attribute name="materiasPrimas"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.vo.MateriaPrimaVO" file="/zara/src/main/java/fabrica/vo/MateriaPrimaVO.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization>    
+    <source project="zara" name="fabrica.bean.session.ModeloSolicitudFabricacionBean" 
+      file="/zara/src/main/java/fabrica/bean/session/ModeloSolicitudFabricacionBean.java" binary="false"/>    
+    <target project="zara" name="fabrica.facades.ModeloSolicitudFabricacion" 
+      file="/zara/src/main/java/fabrica/facades/ModeloSolicitudFabricacion.java" binary="false"/>  
+  </realization>  
+  <realization>    
+    <source project="zara" name="fabrica.bean.session.SessionFacade" 
+      file="/zara/src/main/java/fabrica/bean/session/SessionFacade.java" binary="false"/>    
+    <target project="zara" name="fabrica.facades.Facade" file="/zara/src/main/java/fabrica/facades/Facade.java" 
+      binary="false"/>  
+  </realization>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.ItemSolicitud" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemSolicitud.java" binary="false" navigable="false">      
+      <attribute name="itemsFabricacion"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.ItemFabricacion" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemFabricacion.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization>    
+    <source project="zara" name="fabrica.bean.session.ModeloEnvioProveedoresBean" 
+      file="/zara/src/main/java/fabrica/bean/session/ModeloEnvioProveedoresBean.java" binary="false"/>    
+    <target project="zara" name="fabrica.facades.ModeloEnvioProveedores" 
+      file="/zara/src/main/java/fabrica/facades/ModeloEnvioProveedores.java" binary="false"/>  
+  </realization>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.SolicitudFabricacion" 
+      file="/zara/src/main/java/fabrica/bean/entities/SolicitudFabricacion.java" binary="false" navigable="false">      
+      <attribute name="centroDistribucion"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.CentroDistribucion" 
+      file="/zara/src/main/java/fabrica/bean/entities/CentroDistribucion.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.cu.RepAf" file="/zara/src/main/java/fabrica/cu/RepAf.java" binary="false" 
+      navigable="false">      
+      <attribute name="articulos"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.vo.ArticuloEnListadoVO" 
+      file="/zara/src/main/java/fabrica/vo/ArticuloEnListadoVO.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.FabricacionComenzada" 
+      file="/zara/src/main/java/fabrica/bean/entities/FabricacionComenzada.java" binary="false" navigable="false">      
+      <attribute name="itemsFabricacion"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.ItemFabricacion" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemFabricacion.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.Articulo" 
+      file="/zara/src/main/java/fabrica/bean/entities/Articulo.java" binary="false" navigable="false">      
+      <attribute name="articuloMateriasPrimas"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.ArticuloMateriaPrima" 
+      file="/zara/src/main/java/fabrica/bean/entities/ArticuloMateriaPrima.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.ItemFabricacion" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemFabricacion.java" binary="false" navigable="false">      
+      <attribute name="itemSolFabr"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.ItemSolicitud" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemSolicitud.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization>    
+    <source project="zara" name="fabrica.vo.ArtHogarVO" file="/zara/src/main/java/fabrica/vo/ArtHogarVO.java" 
+      binary="false"/>    
+    <target project="zara" name="fabrica.vo.ArticuloVO" file="/zara/src/main/java/fabrica/vo/ArticuloVO.java" 
+      binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="zara" name="fabrica.cu.EnvProv" file="/zara/src/main/java/fabrica/cu/EnvProv.java" binary="false" 
+      navigable="false">      
+      <attribute name="materiasPrimas"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.vo.MateriaPrimaVO" file="/zara/src/main/java/fabrica/vo/MateriaPrimaVO.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.ItemSolicitud" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemSolicitud.java" binary="false" navigable="false">      
+      <attribute name="articulo"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.Articulo" 
+      file="/zara/src/main/java/fabrica/bean/entities/Articulo.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.session.SessionFacade" 
+      file="/zara/src/main/java/fabrica/bean/session/SessionFacade.java" binary="false" navigable="false">      
+      <attribute name="modeloEnvioProveedores"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.facades.ModeloEnvioProveedores" 
+      file="/zara/src/main/java/fabrica/facades/ModeloEnvioProveedores.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.vo.SolFabrVO" file="/zara/src/main/java/fabrica/vo/SolFabrVO.java" 
+      binary="false" navigable="false">      
+      <attribute name="centroDistribucion"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.vo.CentroDistribucionVO" 
+      file="/zara/src/main/java/fabrica/vo/CentroDistribucionVO.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.ArticuloMateriaPrima" 
+      file="/zara/src/main/java/fabrica/bean/entities/ArticuloMateriaPrima.java" binary="false" navigable="false">      
+      <attribute name="materiaPrima"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.MateriaPrima" 
+      file="/zara/src/main/java/fabrica/bean/entities/MateriaPrima.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.session.SessionFacade" 
+      file="/zara/src/main/java/fabrica/bean/session/SessionFacade.java" binary="false" navigable="false">      
+      <attribute name="modeloReposicionArticulos"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zara" name="fabrica.facades.ModeloReposicionArticulos" 
+      file="/zara/src/main/java/fabrica/facades/ModeloReposicionArticulos.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.vo.SolFabrVO" file="/zara/src/main/java/fabrica/vo/SolFabrVO.java" 
+      binary="false" navigable="false">      
+      <attribute name="articulos"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.vo.SolFabrItemVO" file="/zara/src/main/java/fabrica/vo/SolFabrItemVO.java" 
+      binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zara" name="fabrica.bean.entities.Articulo" 
+      file="/zara/src/main/java/fabrica/bean/entities/Articulo.java" binary="false" navigable="false">      
+      <attribute name="articuloSolicitudFabricacion"/>      
+      <multiplicity minimum="0" maximum="2147483647"/>    
+    </source>    
+    <target project="zara" name="fabrica.bean.entities.ItemSolicitud" 
+      file="/zara/src/main/java/fabrica/bean/entities/ItemSolicitud.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization>    
+    <source project="zara" name="fabrica.bean.session.ModeloReposicionArticulosBean" 
+      file="/zara/src/main/java/fabrica/bean/session/ModeloReposicionArticulosBean.java" binary="false"/>    
+    <target project="zara" name="fabrica.facades.ModeloReposicionArticulos" 
+      file="/zara/src/main/java/fabrica/facades/ModeloReposicionArticulos.java" binary="false"/>  
+  </realization>  
+  <realization>    
+    <source project="zara" name="fabrica.bean.session.ModeloComenzarFabricacionBean" 
+      file="/zara/src/main/java/fabrica/bean/session/ModeloComenzarFabricacionBean.java" binary="false"/>    
+    <target project="zara" name="fabrica.facades.ModeloComenzarFabricacion" 
+      file="/zara/src/main/java/fabrica/facades/ModeloComenzarFabricacion.java" binary="false"/>  
+  </realization>  
+  <realization>    
+    <source project="zara" name="fabrica.bean.session.ModeloNuevoArticuloBean" 
+      file="/zara/src/main/java/fabrica/bean/session/ModeloNuevoArticuloBean.java" binary="false"/>    
+    <target project="zara" name="fabrica.facades.ModeloNuevoArticulo" 
+      file="/zara/src/main/java/fabrica/facades/ModeloNuevoArticulo.java" binary="false"/>  
+  </realization>  
+  <classifier-display autosize="true" package="true" initial-value="false" signature="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

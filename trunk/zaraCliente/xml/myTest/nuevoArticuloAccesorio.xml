@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<nuevoArticulo>
+	<tipo>Accesorio</tipo>
+	<referencia>6000</referencia>
+	<descripcion>Jabon para manos</descripcion>
+	<nombre>Javon</nombre>
+	<composicion>Blabla</composicion>
+	<medidas>20X10cm</medidas>
+	<color>Amarillo</color>
+	<seccion></seccion>
+	<categoria>banio</categoria>
+	<linea>hogar</linea>
+	<precio>10.99</precio>
+	<centrosDistribucion>
+        	<centroDistribucion>
+        		<id>1</id>
+        	</centroDistribucion>
+        	<centroDistribucion>
+        		<id>2</id>
+	        </centroDistribucion>
+	</centrosDistribucion>
+</nuevoArticulo>

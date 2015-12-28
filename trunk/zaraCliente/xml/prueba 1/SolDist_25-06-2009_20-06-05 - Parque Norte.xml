@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<solicitudDistribucion>
+    <tiendas>
+        <tienda>
+            <id>9</id>
+            <articulos>
+                <articulo>
+                    <referencia>6005571</referencia>
+                    <cantidad>10</cantidad>
+                </articulo>
+                <articulo>
+                    <referencia>45023105</referencia>
+                    <cantidad>9</cantidad>
+                </articulo>
+            </articulos>
+        </tienda>
+        <tienda>
+            <id>13</id>
+            <articulos>
+                <articulo>
+                    <referencia>47123029</referencia>
+                    <cantidad>20</cantidad>
+                </articulo>
+            </articulos>
+        </tienda>
+    </tiendas>
+</solicitudDistribucion>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pedidosArticulos>
+  <tienda>13</tienda>
+  <articulos>
+    <articulo>
+      <referencia>6005571</referencia>
+      <cantidad>8</cantidad>
+    </articulo>
+    <articulo>
+      <referencia>7166941</referencia>
+      <cantidad>5</cantidad>
+    </articulo>
+    <articulo>
+      <referencia>47123029</referencia>
+      <cantidad>20</cantidad>
+    </articulo>
+    <articulo>
+      <referencia>48094221</referencia>
+      <cantidad>10</cantidad>
+    </articulo>
+  </articulos>
+</pedidosArticulos>

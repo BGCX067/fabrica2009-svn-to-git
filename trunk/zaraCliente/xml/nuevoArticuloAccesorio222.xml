@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>accesorio</tipo>
+    <referencia>222</referencia>
+    <descripcion>Alfombra</descripcion>
+    <nombre>Accesorete</nombre>
+    <composicion>100% Piel Bovina</composicion>
+    <medidas>160x80cm</medidas>
+    <color>Azul</color>
+    <seccion></seccion>
+    <categoria>Cama</categoria>
+    <linea>Unica</linea>
+    <precio>1500.99</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>1</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>2</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>3</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>4</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>5</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>6</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>

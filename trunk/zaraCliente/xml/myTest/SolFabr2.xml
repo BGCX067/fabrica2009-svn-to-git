@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<solicitudFabricacion>
+	<idCentroDist>3</idCentroDist>
+	<articulos>
+		<articulo>
+			<referencia>8001</referencia>
+			<cantidad>100</cantidad>
+		</articulo>
+		<articulo>
+			<referencia>8000</referencia>
+			<cantidad>15</cantidad>
+		</articulo>
+	</articulos>
+</solicitudFabricacion>

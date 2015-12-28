@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<nuevoArticulo>
+  <tipo>ropa</tipo>
+  <referencia>22222</referencia>
+  <descripcion>Remera</descripcion>
+  <talle>Small</talle>
+  <color>Azul</color>
+  <origen>Asia</origen>
+  <seccion>Niño</seccion>
+  <linea>Niña</linea>
+  <precio>25.0</precio>
+  <centrosDistribucion>
+    <centroDistribucion>
+      <id>1</id>
+    </centroDistribucion>
+    <centroDistribucion>
+      <id>2</id>
+    </centroDistribucion>
+    <centroDistribucion>
+      <id>3</id>
+    </centroDistribucion>
+    <centroDistribucion>
+      <id>4</id>
+    </centroDistribucion>
+    <centroDistribucion>
+      <id>5</id>
+    </centroDistribucion>
+    <centroDistribucion>
+      <id>6</id>
+    </centroDistribucion>
+    <centroDistribucion>
+      <id>7</id>
+    </centroDistribucion>
+  </centrosDistribucion>
+</nuevoArticulo>

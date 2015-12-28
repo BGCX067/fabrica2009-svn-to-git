@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ofertaArticulos>
+    <articulos>
+        <articulo>
+            <tipo>ropa</tipo>
+            <referencia>541309</referencia>
+            <descripcion>Pantalon raya labrada bol. costura</descripcion>
+            <talle>42</talle>
+            <color>Negro</color>
+            <origen>Asia</origen>
+            <seccion>Hombre</seccion>
+            <linea>Vestir</linea>
+            <precio>199</precio>
+            <descuento>20</descuento>
+            <puntoPedido>10</puntoPedido>
+        </articulo>
+        <articulo>
+            <tipo>ropa</tipo>
+            <referencia>6005571</referencia>
+            <descripcion>Falda cuadros y tablas</descripcion>
+            <talle>11</talle>
+            <color>Fucsia</color>
+            <origen>Brasil</origen>
+            <seccion>Niño</seccion>
+            <linea>Niña</linea>
+            <precio>99</precio>
+            <descuento>20</descuento>
+            <puntoPedido>10</puntoPedido>
+        </articulo>
+        <articulo>
+            <tipo>ropa</tipo>
+            <referencia>7166941</referencia>
+            <descripcion>Pantalon Saten</descripcion>
+            <talle>M</talle>
+            <color>Marrón</color>
+            <origen>Turquía</origen>
+            <seccion>Mujer</seccion>
+            <linea>Basic</linea>
+            <precio>139</precio>
+            <descuento>20</descuento>
+            <puntoPedido>10</puntoPedido>
+        </articulo>
+        <articulo>
+            <tipo>accesorio</tipo>
+            <referencia>45023105</referencia>
+            <descripcion>Jabonera blanca de porcelana</descripcion>
+            <nombre>Jabonera Aoki</nombre>
+            <composicion>100% porcelana</composicion>
+            <medidas>12.30 x 9.10 x 3.10 cm</medidas>
+            <color>Blanco</color>
+            <seccion>Accesorios de Baño</seccion>
+            <categoria>Baño</categoria>
+            <linea>Unica</linea>
+            <precio>4.9</precio>
+            <descuento>20</descuento>
+            <puntoPedido>10</puntoPedido>
+        </articulo>
+        <articulo>
+            <tipo>accesorio</tipo>
+            <referencia>47123029</referencia>
+            <descripcion>Alfombra lana hilo shaggy</descripcion>
+            <nombre>Alfombra Ean</nombre>
+            <composicion>40% Algodon 60% lana</composicion>
+            <medidas>120cm x 180cm</medidas>
+            <color>Unico</color>
+            <seccion>Alfombra</seccion>
+            <categoria>Cama</categoria>
+            <linea>Unica</linea>
+            <precio>249</precio>
+            <descuento>20</descuento>
+            <puntoPedido>10</puntoPedido>
+        </articulo>
+        <articulo>
+            <tipo>accesorio</tipo>
+            <referencia>48094221</referencia>
+            <descripcion>Fuenta redonda de loza</descripcion>
+            <nombre>Vajilla pared recta - Fuente vida</nombre>
+            <composicion>100% Loza</composicion>
+            <medidas>33cm</medidas>
+            <color>Unico</color>
+            <seccion>Vajilla</seccion>
+            <categoria>Mesa</categoria>
+            <linea>Unica</linea>
+            <precio>9.9</precio>
+            <descuento>20</descuento>
+            <puntoPedido>10</puntoPedido>
+        </articulo>
+    </articulos>
+</ofertaArticulos>

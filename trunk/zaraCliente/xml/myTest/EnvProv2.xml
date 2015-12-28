@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<envioProveedores>
+	<materiasPrimas>
+		<materiaPrima>
+			<codigo>1</codigo>
+			<stock>2000</stock>
+		</materiaPrima>
+		<materiaPrima>
+			<codigo>3</codigo>
+			<stock>100</stock>
+		</materiaPrima>
+		<materiaPrima>
+			<codigo>5</codigo>
+			<stock>900</stock>
+		</materiaPrima>
+	</materiasPrimas>
+</envioProveedores>

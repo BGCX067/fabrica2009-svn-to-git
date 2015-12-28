@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>accesorio</tipo>
+    <referencia>48094221</referencia>
+    <descripcion>Fuenta redonda de loza</descripcion>
+    <nombre>Vajilla pared recta - Fuente vida</nombre>
+    <composicion>100% Loza</composicion>
+    <medidas>33cm</medidas>
+    <color>Unico</color>
+    <seccion>Vajilla</seccion>
+    <categoria>Mesa</categoria>
+    <linea>Unica</linea>
+    <precio>9.9</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>1</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>3</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>4</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>5</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>6</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>

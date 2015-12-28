@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<nuevoArticulo>
+	<tipo>Ropa</tipo>
+	<referencia>8000</referencia>
+	<descripcion>Camisa</descripcion>
+	<talle>Medium</talle>
+	<color>Negro</color>
+	<origen>Origen</origen>
+	<seccion>BLABLA</seccion>
+	<linea>Sport</linea>
+	<precio>6.99</precio>
+	<centrosDistribucion>
+        	<centroDistribucion>
+        		<id>1</id>
+        	</centroDistribucion>
+        	<centroDistribucion>
+        		<id>2</id>
+	        </centroDistribucion>
+	</centrosDistribucion>
+</nuevoArticulo>

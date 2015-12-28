@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>ropa</tipo>
+    <referencia>7166941</referencia>
+    <descripcion>Pantalon Saten</descripcion>
+    <talle>M</talle>
+    <color>Marrón</color>
+    <origen>Turquía</origen>
+    <seccion>Mujer</seccion>
+    <linea>Basic</linea>
+    <precio>139</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>1</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>2</id>
+        </centroDistribucion>
+	<centroDistribucion>
+            <id>3</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>4</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>6</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>

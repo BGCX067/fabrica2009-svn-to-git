@@ -1,0 +1,9 @@
+<solicitudFabricacion>
+  <idCentroDist>3</idCentroDist>
+  <articulos>
+    <articulo>
+      <referencia>48094221</referencia>
+      <cantidad>10</cantidad>
+    </articulo>
+  </articulos>
+</solicitudFabricacion>

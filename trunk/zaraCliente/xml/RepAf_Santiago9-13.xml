@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<reposicionArticulos>
+  <articulos>
+    <articulo>
+      <referencia>1234</referencia>
+      <cantidad>100</cantidad>
+    </articulo>
+    <articulo>
+      <referencia>4321</referencia>
+      <cantidad>40</cantidad>
+    </articulo>
+  </articulos>
+</reposicionArticulos>

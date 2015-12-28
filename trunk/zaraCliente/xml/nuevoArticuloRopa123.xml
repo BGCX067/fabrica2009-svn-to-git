@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>ropa</tipo>
+    <referencia>123</referencia>
+    <descripcion>Camiseta Algodon Lycra</descripcion>
+    <talle>L</talle>
+    <color>Rosa</color>
+    <origen>Brasil</origen>
+    <seccion>Mujer</seccion>
+    <linea>Woman</linea>
+    <precio>99</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>1</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>5</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>

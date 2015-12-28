@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>accesorio</tipo>
+    <referencia>567</referencia>
+    <descripcion>Toalla algodn egipcio con cenefa de Jacquard</descripcion>
+    <nombre>Toalla Diagonal</nombre>
+    <composicion>100% Algodn</composicion>
+    <medidas>50x90cm. (toalla lavabo)</medidas>
+    <color>Rojo</color>
+    <seccion>Toallas y Alfombras de Bao</seccion>
+    <categoria>Salon</categoria>
+    <linea>Contemporaneo</linea>
+    <precio>7.99</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>1</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>3</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>6</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>

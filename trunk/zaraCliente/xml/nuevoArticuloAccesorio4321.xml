@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>accesorio</tipo>
+    <referencia>4321</referencia>
+    <descripcion>Terciada</descripcion>
+    <nombre>Mesa</nombre>
+    <composicion>madera</composicion>
+    <medidas>12x32</medidas>
+    <color>Blanco</color>
+    <seccion>Cortina</seccion>
+    <categoria>Baño</categoria>
+    <linea>Baby</linea>
+    <precio>76.98</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>1</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>2</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>3</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>4</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>5</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>6</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>7</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>

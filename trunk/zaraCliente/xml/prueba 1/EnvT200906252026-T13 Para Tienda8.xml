@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<envioTienda>
+  <articulos>
+    <articulo>
+      <referencia>6005571</referencia>
+      <cantidad>8</cantidad>
+    </articulo>
+    <articulo>
+      <referencia>45023105</referencia>
+      <cantidad>5</cantidad>
+    </articulo>
+  </articulos>
+</envioTienda>

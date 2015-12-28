@@ -1,0 +1,199 @@
+<class-diagram version="0.9.82" automaticImage="PNG" icons="true" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.mvcFramework.Controller" project="zaraCliente" 
+    file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/Controller.java" binary="false">    
+    <position x="189" y="89" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.mvcFramework.Model" project="zaraCliente" 
+    file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/Model.java" binary="false">    
+    <position x="399" y="250" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.mvcFramework.View" project="zaraCliente" 
+    file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/View.java" binary="false">    
+    <position x="616" y="80" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.xml.NuevoArticuloXml" project="zaraCliente" 
+    file="/zaraCliente/src/main/java/swing/fabrica/xml/NuevoArticuloXml.java" binary="false">    
+    <position x="1842" y="408" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.xml.XMLReader" project="zaraCliente" 
+    file="/zaraCliente/src/main/java/swing/fabrica/xml/XMLReader.java" binary="false">    
+    <position x="1373" y="224" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.vistas.VistaComenzarFabricacion" 
+    project="zaraCliente" file="/zaraCliente/src/main/java/swing/fabrica/vistas/VistaComenzarFabricacion.java" 
+    binary="false">    
+    <position x="732" y="388" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.vistas.guis.DisenioComenzarFabricacion" 
+    project="zaraCliente" file="/zaraCliente/src/main/java/swing/fabrica/vistas/guis/DisenioComenzarFabricacion.java" 
+    binary="false">    
+    <position x="552" y="932" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.modelos.BusinessDelegateComenzarFabricacion" 
+    project="zaraCliente" 
+    file="/zaraCliente/src/main/java/swing/fabrica/modelos/BusinessDelegateComenzarFabricacion.java" binary="false">    
+    <position x="387" y="598" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.controladores.ControladorComenzarFabricacion" 
+    project="zaraCliente" 
+    file="/zaraCliente/src/main/java/swing/fabrica/controladores/ControladorComenzarFabricacion.java" binary="false">    
+    <position x="116" y="380" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.vistas.guis.ComboBoxHelper.MyComboBoxRenderer" 
+    project="zaraCliente" file="/zaraCliente/src/main/java/swing/fabrica/vistas/guis/ComboBoxHelper.java" binary="false">    
+    <position x="1114" y="745" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.vistas.guis.ComboBoxHelper.MyComboBoxEditor" 
+    project="zaraCliente" file="/zaraCliente/src/main/java/swing/fabrica/vistas/guis/ComboBoxHelper.java" binary="false">    
+    <position x="1458" y="735" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.vistas.guis.ComboBoxHelper" project="zaraCliente" 
+    file="/zaraCliente/src/main/java/swing/fabrica/vistas/guis/ComboBoxHelper.java" binary="false">    
+    <position x="940" y="534" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <class corner="BOTTOM_RIGHT" language="java" name="swing.fabrica.vistas.guis.DisenioTablasHelper" 
+    project="zaraCliente" file="/zaraCliente/src/main/java/swing/fabrica/vistas/guis/DisenioTablasHelper.java" 
+    binary="false">    
+    <position x="1311" y="504" width="-1" height="-1"/>    
+    <display autosize="true" package="true" initial-value="false" signature="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true"/>      
+      <operations public="true" package="true" protected="true" private="true"/>    
+    </display>  
+  </class>  
+  <generalization>    
+    <source project="zaraCliente" name="swing.fabrica.modelos.BusinessDelegateComenzarFabricacion" 
+      file="/zaraCliente/src/main/java/swing/fabrica/modelos/BusinessDelegateComenzarFabricacion.java" binary="false"/>    
+    <target project="zaraCliente" name="swing.fabrica.mvcFramework.Model" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/Model.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="zaraCliente" name="swing.fabrica.mvcFramework.Controller" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/Controller.java" binary="false" navigable="false">      
+      <attribute name="vista"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zaraCliente" name="swing.fabrica.mvcFramework.View" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/View.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization>    
+    <source project="zaraCliente" name="swing.fabrica.vistas.VistaComenzarFabricacion" 
+      file="/zaraCliente/src/main/java/swing/fabrica/vistas/VistaComenzarFabricacion.java" binary="false"/>    
+    <target project="zaraCliente" name="swing.fabrica.mvcFramework.View" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/View.java" binary="false"/>  
+  </generalization>  
+  <generalization>    
+    <source project="zaraCliente" name="swing.fabrica.controladores.ControladorComenzarFabricacion" 
+      file="/zaraCliente/src/main/java/swing/fabrica/controladores/ControladorComenzarFabricacion.java" binary="false"/>    
+    <target project="zaraCliente" name="swing.fabrica.mvcFramework.Controller" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/Controller.java" binary="false"/>  
+  </generalization>  
+  <association>    
+    <source project="zaraCliente" name="swing.fabrica.vistas.VistaComenzarFabricacion" 
+      file="/zaraCliente/src/main/java/swing/fabrica/vistas/VistaComenzarFabricacion.java" binary="false" 
+      navigable="false">      
+      <attribute name="vistaGrafica"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zaraCliente" name="swing.fabrica.vistas.guis.DisenioComenzarFabricacion" 
+      file="/zaraCliente/src/main/java/swing/fabrica/vistas/guis/DisenioComenzarFabricacion.java" binary="false" 
+      navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zaraCliente" name="swing.fabrica.mvcFramework.View" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/View.java" binary="false" navigable="false">      
+      <attribute name="controlador"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zaraCliente" name="swing.fabrica.mvcFramework.Controller" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/Controller.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zaraCliente" name="swing.fabrica.mvcFramework.View" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/View.java" binary="false" navigable="false">      
+      <attribute name="modelo"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zaraCliente" name="swing.fabrica.mvcFramework.Model" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/Model.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zaraCliente" name="swing.fabrica.mvcFramework.Controller" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/Controller.java" binary="false" navigable="false">      
+      <attribute name="modelo"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zaraCliente" name="swing.fabrica.mvcFramework.Model" 
+      file="/zaraCliente/src/main/java/swing/fabrica/mvcFramework/Model.java" binary="false" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association>    
+    <source project="zaraCliente" name="swing.fabrica.vistas.guis.DisenioComenzarFabricacion" 
+      file="/zaraCliente/src/main/java/swing/fabrica/vistas/guis/DisenioComenzarFabricacion.java" binary="false" 
+      navigable="false">      
+      <attribute name="vistaPadre"/>      
+      <multiplicity minimum="0" maximum="1"/>    
+    </source>    
+    <target project="zaraCliente" name="swing.fabrica.vistas.VistaComenzarFabricacion" 
+      file="/zaraCliente/src/main/java/swing/fabrica/vistas/VistaComenzarFabricacion.java" binary="false" 
+      navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" package="true" initial-value="false" signature="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true"/>    
+    <operations public="true" package="true" protected="true" private="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

@@ -1,0 +1,13 @@
+<pedidosArticulos>
+  <tienda>9</tienda>
+  <articulos>
+    <articulo>
+      <referencia>6005571</referencia>
+      <cantidad>10</cantidad>
+    </articulo>
+    <articulo>
+      <referencia>45023105</referencia>
+      <cantidad>9</cantidad>
+    </articulo>
+  </articulos>
+</pedidosArticulos>

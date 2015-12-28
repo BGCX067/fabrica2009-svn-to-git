@@ -1,0 +1,20 @@
+<envioProveedores>
+  <materiasPrimas>
+    <materiaPrima>
+      <codigo>2</codigo>
+      <stock>17570</stock>
+    </materiaPrima>
+    <materiaPrima>
+      <codigo>3</codigo>
+      <stock>1297040</stock>
+    </materiaPrima>
+    <materiaPrima>
+      <codigo>4</codigo>
+      <stock>40</stock>
+    </materiaPrima>
+    <materiaPrima>
+      <codigo>1</codigo>
+      <stock>126920</stock>
+    </materiaPrima>
+  </materiasPrimas>
+</envioProveedores>

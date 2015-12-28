@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<nuevoArticulo>
+	<tipo>Ropa</tipo>
+	<referencia>8801</referencia>
+	<descripcion>Remera</descripcion>
+	<talle>Large</talle>
+	<color>Rojo</color>
+	<origen>Origen</origen>
+	<seccion>Ropa deportiva</seccion>
+	<linea>Sport</linea>
+	<precio>16.99</precio>
+	<centrosDistribucion>
+        	<centroDistribucion>
+        		<id>3</id>
+        	</centroDistribucion>
+        	<centroDistribucion>
+        		<id>5</id>
+	        </centroDistribucion>
+	</centrosDistribucion>
+</nuevoArticulo>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ofertaArticulos>
+    <articulos>
+        <articulo>
+            <tipo>ropa</tipo>
+            <referencia>1234</referencia>
+            <descripcion>Camisa</descripcion>
+            <talle>L</talle>
+            <color>Beige</color>
+            <origen>Asia</origen>
+            <seccion>Mujer</seccion>
+            <linea>Basic</linea>
+            <precio>64.32</precio>
+            <descuento>20</descuento>
+            <puntoPedido>200</puntoPedido>
+        </articulo>
+        <articulo>
+            <tipo>accesorio</tipo>
+            <referencia>4321</referencia>
+            <descripcion>Terciada</descripcion>
+            <nombre>Mesa</nombre>
+            <composicion>madera</composicion>
+            <medidas>12x32</medidas>
+            <color>Blanco</color>
+            <seccion>Cortina</seccion>
+            <categoria>Baño</categoria>
+            <linea>Baby</linea>
+            <precio>76.98</precio>
+            <descuento>20</descuento>
+            <puntoPedido>200</puntoPedido>
+        </articulo>
+    </articulos>
+</ofertaArticulos>

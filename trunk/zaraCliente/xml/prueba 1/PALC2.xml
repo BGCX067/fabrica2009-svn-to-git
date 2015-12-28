@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedidosArticulos>
+  <tienda>3</tienda>
+  <articulos>
+    <articulo>
+      <referencia>7166941</referencia>
+      <cantidad>10</cantidad>
+    </articulo>
+    <articulo>
+      <referencia>45023105</referencia>
+      <cantidad>8</cantidad>
+    </articulo>
+    <articulo>
+      <referencia>48094221</referencia>
+      <cantidad>5</cantidad>
+    </articulo>
+  </articulos>
+</pedidosArticulos>
+

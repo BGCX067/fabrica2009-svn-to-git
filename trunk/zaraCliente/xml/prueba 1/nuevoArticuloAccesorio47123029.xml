@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>accesorio</tipo>
+    <referencia>47123029</referencia>
+    <descripcion>Alfombra lana hilo shaggy</descripcion>
+    <nombre>Alfombra Ean</nombre>
+    <composicion>40% Algodon 60% lana</composicion>
+    <medidas>120cm x 180cm</medidas>
+    <color>Unico</color>
+    <seccion>Alfombra</seccion>
+    <categoria>Cama</categoria>
+    <linea>Unica</linea>
+    <precio>249</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>1</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>2</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>5</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>7</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>

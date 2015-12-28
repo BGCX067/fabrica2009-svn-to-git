@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nuevoArticulo>
+    <tipo>ropa</tipo>
+    <referencia>541309</referencia>
+    <descripcion>Pantalon raya labrada bol. costura</descripcion>
+    <talle>42</talle>
+    <color>Negro</color>
+    <origen>Asia</origen>
+    <seccion>Hombre</seccion>
+    <linea>Vestir</linea>
+    <precio>199</precio>
+    <centrosDistribucion>
+        <centroDistribucion>
+            <id>2</id>
+        </centroDistribucion>
+	<centroDistribucion>
+            <id>3</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>4</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>5</id>
+        </centroDistribucion>
+        <centroDistribucion>
+            <id>6</id>
+        </centroDistribucion>
+    </centrosDistribucion>
+</nuevoArticulo>
